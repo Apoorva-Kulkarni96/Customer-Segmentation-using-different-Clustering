@@ -1,7 +1,7 @@
 ## Customer-Segmentation-using-different-Clustering
 Using various clustering methods, find customer's expenses based on their annual income. The dataset is downloaded from Kaggle.com.  The dataset has 200 entries and 5 features.
 
-### INDEX
+#### INDEX
 
 * Import Libraries
 * Data Overview
@@ -13,7 +13,7 @@ Using various clustering methods, find customer's expenses based on their annual
 * Mean Shift
 * Conclusion
 
-### CONCLUSION:
+#### CONCLUSION:
 ​
 Clustering is an unsupervised problem of finding natural groups in the feature space of input data. There are many different clustering algorithms, and no single best method for all datasets. 
 ​
